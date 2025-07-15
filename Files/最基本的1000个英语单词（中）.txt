@@ -1,0 +1,2999 @@
+#art.这，那 ad.[用于比较级;最高级前]
+the
+
+#aux. v.(am,is,are之原型) vi.是;在
+be
+
+#prep.…的;由…制成的;关于;由于
+of
+
+#conj.和;那么;然后;而且
+and
+
+#art.一(个);任何一(个);每一(个)
+a
+
+#prep.向;对;趋于;直到…为止;比;到
+to
+
+#prep.在…里;以;穿着;由于 ad.进;到达
+in
+
+#pron.他;(不论性别的)一个人
+he
+
+#aux. v.已经 vt.有;进行;经受;吃;取得
+have
+
+#pron.它;这;那
+it
+
+#a./ pron.那，那个; ad.那样，那么
+that
+
+#prep.为;对，供，适合于;向 conj.因为故
+for 
+
+#pron.他(或她、它)们
+they
+
+#pron.我
+I
+
+#prep.和，跟，同;具有;用;关于;随着
+with
+
+#ad.同样地 prep.当作 conj.随着;因为
+as
+
+#ad.不，没，不是
+not
+
+#prep.在…上;向;处于;在 ad.上;向前
+on
+
+#pron.她
+she
+
+#prep.在;向;以;处于;因为;从事
+at
+
+#prep.被;凭借;经由;由于 ad.在近旁;经过
+by
+
+#a.这，这个;今，本 pron.这，这个
+this
+
+#pron.我们
+we
+
+#pron.你，你们
+you
+
+#aux. v.[代替动词] v.做，干，行动
+do
+
+#conj.但是;而(是) prep.除…以外 ad.只
+but
+
+#prep.出自;离;去除;从;因为;由;与
+from
+
+#conj.或，或者;或者说;否则，要不然
+or
+
+#pron./ a.哪一个(些);[关系代词]那个(些)
+which
+
+#num.一 pron.一个(人) a.一个的;一体的
+one
+
+#aux. v.[will的过去式];总会;也许;请
+would
+
+#a.全部的;尽量的 ad.很 pron.全部
+all
+
+#aux. v.将;愿意 n.意志;遗嘱 vt.用意志驱使
+will
+
+#pron.[与be连用，“有”] ad.在那里
+there
+
+#v.说;表明 ad.比如说，大约 n.发言权
+say
+
+#pron.谁，什么人;[关系代词]…的人
+who
+
+#vt.做，制造;产生;成为 n.品牌，类型
+make
+
+#ad./ pron.什么时候;在…时 conj.当…时
+when
+
+#aux. v.能;可以 n.罐(头) vt.把…装罐保存
+can
+
+#ad.更(多) a.更多(大)的 n.更多的人(或物)
+more
+
+#conj.如果，假如;是否;即使;无论何时
+if
+
+#ad.不，不是，没有 a.没有的;不许的
+no
+
+#n.(成年)男人;人，人类 vt.给…配备人员
+man
+
+#ad.出，向外;在外;出现;完;过时
+out
+
+#a.别的;其余的 pron.另一个人(或物)
+other
+
+#ad.那么，非常;如此 conj.所以;以便
+so
+
+#pron.什么;[关系代词] a.多么;什么
+what
+
+#n.时间;次;倍[ pl.]时期 vt.为…安排时间
+time
+
+#ad./ a.向上(的) prep.沿…往上;在…上面
+up
+
+#vi.去;变得;进行;放;通往;消失 n.尝试
+go
+
+#prep.关于;在…周围 ad.大约;在附近
+about
+
+#conj.比
+than
+
+#prep.进，入，到…里;成为;很喜欢
+into
+
+#v. 的过去式;[虚拟语气等]可以(能)
+could
+
+#n.状态;国家，政府;州 vt.陈述，说明
+state
+
+#ad.只;反而 a.唯一的;最好的 conj.可是
+only
+
+#a.新的，新出现的，新生产的;生疏的
+new
+
+#n.年，年份
+year
+
+#a.一些，有些;某个 pron.一些 ad.大约
+some
+
+#vt.带(去);做;花费;拿;服用;乘;拍
+take
+
+#vi.来(自);经过;至;实现;开始;发生
+come
+
+#pron.[this的复数]这些
+these
+
+#v.知道;认识;会;认出，分辨;懂得
+know
+
+#v.知道;认识;会;认出，分辨;懂得
+see
+
+#vt.用;耗费，利用 n.使用，应用;用途
+use
+
+#vt.获得;收到;理解 vi.变得;逐渐;到达
+get
+
+#v.喜欢 n.[ pl.]相似(物) prep.像 a.相像的
+like
+
+#ad.当时;那么，因而;然后，于是
+then
+
+#num.第一 a.第一的 ad.首先;第一次;宁可
+first
+
+#pron.无论哪个; a.任何的 ad.丝毫
+any
+
+#v.工作;有效 n.工作;职业[ pl.]著作
+work
+
+#ad.(到)现在，如今;这时候;马上
+now
+
+#n.五月
+may
+
+#a.这样的 ad.那么 pron.这样的人(物)
+such
+
+#vt.给予;提供 vi.塌下，折断，弯曲;让步
+give
+
+#prep.在…的上;关于 ad.颠倒地 a.结束的
+over
+
+#vt.认为;想;打算 vi./ n.想，思考
+think
+
+#ad.最;十分 a.最多的;大部分的 n.大多数
+most
+
+#ad.甚至 a.平的;平稳的;双数的 v.(使)平坦
+even
+
+#vt.发现;感到;判决 n.(有价值的)发现物
+find
+
+#n.天，一昼夜;白昼，白天;时期，时代
+day
+
+#ad.而且(也)，此外(还);同样地
+also
+
+#prep./ conj.在…之后 a.以后的 ad.后
+after
+
+#n.方法;路;方面[ pl.]习俗 ad.非常
+way
+
+#a.许多的，多的 pron.许多人，许多
+many
+
+#aux. v.必须，应该;一定 n.必须做的事
+must
+
+#v.看;显得;朝着;打量 n.看;脸色
+look
+
+#prep.在…前 conj.在…以前 ad.以前
+before
+
+#a.大的;伟大的;好极的;擅长的
+great
+
+#ad.回原处 n.背;后面 a.后面的 v.后退
+back
+
+#prep.穿过;从头到尾;凭借 ad./ a.自始至终
+through
+
+#a./ ad.长(期)的(地) n.长时间 vi.渴望
+long
+
+#ad./ conj.在哪里;在…的地方 pron.哪里
+where
+
+#ad.十分; a./ n.多(的)，大量(的)
+much
+
+#aux. v.[shall的过去式];应当;可能
+should
+
+#ad.好地;完全地 int.那末 a.健康的 n.井
+well
+
+#n.人(们);[the～]人民;民族 vt.居住于
+people
+
+#a./ ad.向下(的)，在下面 prep.沿着…而下
+down
+
+#a.自己的 vt.有，拥有
+own
+
+#ad.正好;只是;刚才 a.正义的;恰当的
+just
+
+#conj.因为
+because
+
+#a.好的;擅长的; n.善，好处[ pl.]商品
+good
+
+#pron.各(每)个 a.各，各自的，每 ad.对每个
+each
+
+#pron.[that的复数]那些
+those
+
+#vi.觉得;给人以…感觉 vt.摸;认为 n.感觉
+feel
+
+#vi.好像，似乎
+seem
+
+#ad.怎么，怎样;多么，多少
+how
+
+#a.高(级;尚;兴)的 ad.高 n.高峰(潮，水平)
+high
+
+#ad.也，还;太，过于;很，非常
+too
+
+#n.地方;职位;名次 vt.放置;任命
+place
+
+#a.小的;短的;不多的 n.极少 ad.毫不
+little
+
+#n.(全)世界，地球;世间(人);界，领域
+world
+
+#ad.很;完全地 a.正是的，真实的;完全的
+very
+
+#ad.还;然而 a.静止的 n.剧照 v.(使)平静
+still
+
+#n.国家，民族
+nation
+
+#n.手;指针;人手;帮助;手艺 vt.交，递
+hand
+
+#a.老的;过时的;以前的;老练的
+old
+
+#n.生命;一生;生活，人生;生物;活力
+life
+
+#v.讲(述)，告诉;吩咐;认出;显示;生效
+tell
+
+#v.写，写字;写作，作曲;写信(给)
+write
+
+#vi.变成，开始变得 vt.适合，同…相称
+become
+
+#ad.在(向，到)这里 int.[用于引起注意]
+here
+
+#v./ n.表明;出示;演出，放映;展览(会)
+show
+
+#n.房屋;公司;(H-)议院 vt.给…房子住
+house
+
+#a.两个…(都) pron.两者(都)，双方(都)
+both
+
+#prep.在…之间;为…所分享
+between
+
+#vt.需要;缺少 aux.v.必须 n.需要;贫困
+need
+
+#vt.意思是;意欲 vi.特意 a.吝啬的;平均的
+mean
+
+#v./ n.把…叫做;打电话给;叫;访问;电话
+call
+
+#vt.发展;制订;产生 vi.生长;发展
+develop
+
+#prep./ ad.在…下面;少于;在…情况下
+under
+
+#a.刚过去的;最后的 ad.最后 vi.持续
+last
+
+#a./ ad.对(的);右(的) int.好 n.权利;右
+right
+
+#v.搬;动摇;感动 n.动作;移动，搬家
+move
+
+#n.事;物[常 pl.]局面;所有物，用品
+thing
+
+#a.一般的;总的，普遍的;笼统的 n.将军
+general
+
+#n.学校，学院;上学，学业;学派
+school
+
+#ad.从不，永不;决不，千万不
+never
+
+#a.相同的 pron.[the-]同样的人(物)
+same
+
+#pron.再(另)一个 a.再一个的;别的
+another
+
+#v.开始
+begin
+
+#conj.当…的时;而;虽然 n.一会儿 vt.消磨
+while
+
+#n.数字;号码[常略作N o.]号 vt.编号
+number
+
+#part
+n.部分;零件;作用 v.(使)分开 ad.部分地
+
+#v.转动;扭转;(使)变成 n.转向;轮流
+turn
+
+#a.真的，真正的;真实的，现实的
+real
+
+#v.出发;离开;留下 n.准假;许可;告辞
+leave
+
+#aux. v.[may的过去式];可能 n.力量;权势
+might
+
+#v.想要;缺乏 n.不足[ pl.]需要的东西
+want
+
+#n.要点，观点;点;时刻 v.指，指明
+point
+
+#n.形式;外形;表格 v.形(构)成，产生
+form
+
+#ad.…掉(下);离开;停止;休息 a.休息的
+off
+
+#n.小孩，儿童;子女，孩子
+child
+
+#a./ n.[表示否定]很少(的)，几乎没有(的)
+few
+
+#a.小的;少的;不重要的
+small
+
+#conj./ prep.从…以后;因为 ad.后来
+since
+
+#prep.逆,反(对),违反;对...不利
+against
+
+#vt.询问;请求;邀请 vi.(for)请求
+ask
+
+#a.晚的;晚期的;最近的 ad.迟，晚
+late
+
+#n.家(乡);原产地 a.家庭(乡)的 ad.回家
+home
+
+#n.兴趣;利息(率)[ pl.]利益 vt.使感兴趣
+interest
+
+#a.大的;(数量)多的，众多的
+large
+
+#n.人
+person
+
+#n.末尾;尽头;终止;结果 v.结束，终止
+end
+
+#a.开的，开放的，公开的 v.开;开始;开放
+open
+
+#a.公众的;公共的;公开的 n.公众，民众
+public
+
+#vt.接着;遵照;听懂;注视 vi.(紧)接;懂
+follow
+
+#prep.在…期间
+during
+
+#a.出席的;现在的 n.现在;礼物 vt.赠(送)
+present
+
+#prep.无，没有 ad.在外面
+without
+
+#ad.再(又)一次;到原处;而且
+again
+
+#v.拿;保持;掌握;主持 n.握住;掌握;船舱
+hold
+
+#vt.统治，治理，管理;支配，影响
+govern
+
+#ad.在周围;到处;大约 prep.遍及
+around
+
+#a.可能的，做得到的;可接受的，合理的
+possible
+
+#n.头(脑);顶部;领导 vt.领导 vi.朝…行进
+head
+
+#v.考虑，细想;认为，把…看作;考虑到
+consider
+
+#n.(单)词[ pl.]言语，话;传说;诺言
+word
+
+#n.计(规)划;节目(单);程序 vt.编程
+program
+
+#n.问题，疑难问题;思考题，讨论题
+problem
+
+#ad.然而，可是;无论如何 conj.不管怎样
+however
+
+#v.带路;领导;致使;通向 n.领导;主角;铅
+lead
+
+#n.系统;制度，体制;方法;身体
+system
+
+#n.(一)套 a.规定的 vt.放，安装 vi.落山
+set
+
+#n.顺序;定购;秩序;命令 vt.命令;定购
+order
+
+#n.眼(睛);视力;眼力;监督 vt.看，审视
+eye
+
+#n.计划;平面图，示意图 v.(制订)计划
+plan
+
+#vi.跑;运转;竞选;流 vt.经营 n.跑步
+run
+
+#v.(使)保持，(使)继续;阻止;遵守;保有
+keep
+
+#n.脸，面部表情;外表;表面 v.面向;面对
+face
+
+#n.事实，真相
+fact
+
+#n.组，群;集团 vt.把…分组;使聚集 vi.聚集
+group
+
+#v.玩，打(球等);播放 n.戏剧;游戏，比赛
+play
+
+#vi.站;坐落;处于;忍受 n.台;摊;立场
+stand
+
+#v.增加，增长，增强 n.增加，增长，增强
+increase
+
+#a.早(期)的，在前的;早熟的 ad.在早期;早
+early
+
+#n.课程;过程;做法;路线;(一)道(菜)
+course
+
+#v.改变;交换;兑换 n.变化;更换;零钱
+change
+
+#v.帮(援)助;有助于;[呼救]救命 n.帮助(手)
+help
+
+#n.(界)线;条纹;方针;线路 v.排队(齐)
+line
+
+#n.城市，都市
+city
+
+#vt.放，使处于;表达;提交;记下
+put
+
+#v.关;(使)接近 a.近的 ad.接近地 n.结束
+close
+
+#n.事例;情况;病例;案件;盒;手提箱
+case
+
+#n.[ pl.]军队;暴力 vt.强迫;用力推动
+force
+
+#vt.遇见;见面;满足 vi.相遇;开会 n.运动会
+meet
+
+#ad.一次;曾经，一度 conj.一旦…(就…)
+once
+
+#n.水 vt.浇(供，加)水 vi.流泪(口)水
+water
+
+#prep. 在...之上.
+upon
+
+#n.战争;斗争，竞
+war
+
+#vt.建造;创立 vi.向顶点发展 n.体型，体格
+build
+
+#vt.听见;听到，得知;审讯，听证 vi.听说
+hear
+
+#n.光;灯;火 a.明亮的;轻的 vt.点亮
+light
+
+#v.(使)联合，(使)团结，(使)统一
+unite
+
+#vi.居住;活;难忘 vt.生活 a.活的;直播的
+live
+
+#a.每一(个);每…一次的，每隔…的
+every
+
+#n.国家，全国人民;[the～]农村，乡村
+country
+
+#vt.带来;把…引来;促使;使发生
+bring
+
+#n.圆心,正中;中心 v.(around)把…集中于
+center
+
+#vt.允许，让;假设;出租
+let
+
+#n.面;方面;一边 a.边的 vi.站在…的一边
+side
+
+#vt.试图;审理;考验 vi./ n.努力，尝试
+try
+
+#vt.供给，提供
+provide
+
+#v.继续，延续，延伸
+continue
+
+#n.名字;名声 vt.取名;提名;列举
+name
+
+#a.某(种);肯定的;确实的;不可避免的
+certain
+
+#n.权力;(能)力;电力;幂 vt.使开动
+power
+
+#v.付款;给予(注意等);付出代价 n.工资
+pay
+
+#n.结果;成绩，比分 vi.导致;起因于
+result
+
+#n.问题;疑问;难题 vt.询问;怀疑
+question
+
+#v./ n.学习;调查，研究(成果);书房
+study
+
+#n.成年女子，妇女
+woman
+
+#member
+n.成员，会员
+
+#conj.直到…时;[用于否定句]直到…(才)
+until
+
+#ad.远，久远地;很，极;遥远地 a.遥远的
+far
+
+#n.夜，夜晚
+night
+
+#ad.总是，无例外地;永远，始终
+always
+
+#n.公共设施，公用机构;服务;维修 vt.服务
+service
+
+#ad.远处，离开
+away
+
+#v./ n.报告(道);告发;报到;隶属;传闻
+report
+
+#pron.某物(事) n.重要的事物(或人)
+something
+
+#n.公司;陪伴;同伴(们);(一)群;连队
+company
+
+#n.星期，周
+week
+
+#n.教堂;礼拜;教会(组织)
+church
+
+#prep.向;朝;接近;将近
+toward
+
+#vt.开始;创办 vi.开始;出发;吃惊 n.起点
+start
+
+#a.社会的;交际的，社交的
+social
+
+#n.房间，室;空间，地方;余地
+room
+
+#n.数字;算术;轮廓 vi.出现;有道理 vt.计算
+figure
+
+#n.大自然;天性，性格;性质，类型
+nature
+
+#conj.尽管，虽然 ad.可是，不过，然而
+though
+
+#a.年轻的，青年的 n.青年人
+young
+
+#a./ ad.[little的比较级]更少(小)的(地)
+less
+
+#ad.足够地，充分地;相当，尚 a.足够的
+enough
+
+#ad.几乎，差不多
+almost
+
+#v.读;理解;读数为;读到;写明
+read
+
+#vt.包括，包含
+include
+
+#n.总统，主席;(大学)校长，董事长
+president
+
+#pron.没有东西(事情) n.无关紧要的人(或事)
+nothing
+
+#ad.还，尚，仍;已经;更 conj.然而
+yet
+
+#a.更好的;有好转的 v.改善 ad.更好地
+better
+
+#a.巨大的;重大的;年龄较大的;成功的
+big
+
+#n.男孩
+boy
+
+#n.价格，成本;代价 vt.(使)花费;使付出
+cost
+
+#n.交易，生意;工商企业;职业;事
+business
+
+#n.价值;重要性[ pl.]价值观 vt.重视;评价
+value
+
+#num.第二 a.次等的 n.秒，瞬间 vt.附和
+second
+
+#ad.为什么;…的(理由) int.咳，哎呀
+why
+
+#a./ ad.清晰的(地) vt.清除;使清楚 vi.变清澈
+clear
+
+#vt.预料，预计;等待，期待，盼望;要求
+expect
+
+#n.家，家庭;亲属;家族;语系;科
+family
+
+#a.完整的;十足的;完成的 vt.完成;使完全
+complete
+
+#v.行动;表演 n.行为;法令;(一)幕
+act
+
+#n.感官(觉);判断力，见识;意思 vt.觉得
+sense
+
+#n.头脑;智力;想法 v.介意;注意;照料
+mind
+
+#n./ vt.经历，阅历;经验，感受，体验
+experience
+
+#n.美(艺)术;技术(艺);[ pl.]文科
+art
+
+#a.紧接在后的;紧邻的 ad.然后;次于
+next
+
+#ad.在近处 v./ prep.靠(接)近 a.接(亲)近的
+near
+
+#a.直接的;坦率的 ad.直接地 vt.对准;指导
+direct
+
+#n.汽车，轿车;(火车)车厢
+car
+
+#n.法(律，规，学);律师业;规律，定律
+law
+
+#n.工业，产业;勤劳，勤奋
+industry
+
+#a.重要的，重大的;有势力的，有地位的
+important
+
+#n.女孩子，姑娘;女儿
+girl
+
+#n.[G-]上帝;神;极其崇拜的人(或事物)
+god
+
+#a.几个，若干，数个
+several
+
+#n.事情，情况;物质，物品 vi.要紧
+matter
+
+#a.通常的，惯常的
+usual
+
+#ad.相当，颇有点儿;宁愿;更确切些
+rather
+
+#prep.每，每一
+per
+
+#ad.常常，经常，通常
+often
+
+#n.种类 a.亲切的，和蔼的，仁慈的
+kind
+
+#prep.在…之中;在…之间
+among
+
+#a.白色的;白种的 n.白色;蛋白，眼白
+white
+
+#n.原因;理性 v.分析，推论(理);劝告
+reason
+
+#n.行动;行为;作用;情节
+action
+
+#v.返回;恢复;归还 n.返回[ pl.]盈利
+return
+
+#n.脚，足;英尺;最下部，底部
+foot
+
+#vi.关心 vt.对…介意 n.照顾;注意;挂念
+care
+
+#a.简单的;朴素的;单纯的;头脑简单的
+simple
+
+#prep.在…里面，在…内 ad.在里面
+within
+
+#vt.爱，热爱;喜欢，爱好 n.爱，爱情
+love
+
+#a.人的，人类的;有人情的，好心肠的 n.人
+human
+
+#ad.向前地;一道(起) prep.沿着
+along
+
+#vi.出现,显露;看来好像;发表,问世
+appear
+
+#n.医生;博士 vt.篡改，对…做手脚
+doctor
+
+#vt.相信;认为 vi.相信
+believe
+
+#vi.说话;发言 vt.说(出);讲(某种语言)
+speak
+
+#a.活跃的,积极的;主动的,起作用的 
+active
+
+#n.学生，大学生;研究者
+student
+
+#n.月，一个月的时间
+month
+
+#vt.驾驶，开动，打入;驱使 vi.驾驶 n.驾驶
+drive
+
+#n.关切的事;担心 vt.有关于;使担心
+concern
+
+#a.最好的 ad.最好，最
+best
+
+#n.门，出入口
+door
+
+#n./ v.希望，期望
+hope
+
+#n.例子，实例;榜样，楷模
+example
+
+#vt.通知 vi.(against)告发，检举
+inform
+
+#n.身体;主体;尸体;物体;一群(批)
+body
+
+#ad.在任何时候，从来
+ever
+
+#a./ ad.[1ittle的最高级]最少(小;不的)
+least
+
+#a.很可能的，大概的
+probable
+
+#v.理解，懂;意识到;谅解;听说;认为
+understand
+
+#vt.达到;伸手;达成 n.理解力[ pl.]流域
+reach
+
+#n.结果;影响[ pl.]个人财物 vt.实现，引起
+effect
+
+#a.不同的;各别的，另外的;各种的
+different
+
+#n.想法，主意;思想，概念
+idea
+
+#a.全部的;完整的，无缺的 n.全部，整体
+whole
+
+#n.控制;自制;操纵装置 vt.控制;克制
+control
+
+#n.状况[ pl.]环境 vt.适应;调整状况;决定
+condition
+
+#n.田地;领域;运动场;产地;场;视野
+field
+
+#v.经过;传递;通过;流逝 n.通行证;通道
+pass
+
+#vi.落下;垮台;下垂 n.下降;瀑布;秋天
+fall
+
+#n.便条;笔记;音符;钞票 vt.注意;记录
+note
+
+#a.特殊的;专门的 n.特价，特刊，特别节目
+special
+
+#v./ n.交谈，谈论;演讲;谈判;闲话
+talk
+
+#a.特定(别)的;挑剔的;详细的 n.[ pl.]详情
+particular
+
+#n.今天;现今
+today
+
+#n.分量，尺寸;量具;测量 v.测量;衡量
+measure
+
+#vi./ n.步行(路程)，散步 vt.陪…走
+walk
+
+#vt.教，讲授;教导(训) vi.讲课，当教师
+teach
+
+#a./ ad.低(的);低下(的) n.低点，低水平
+low
+
+#n.小时;时间，时刻[ pl.]固定时间
+hour
+
+#n.类型，种类，品种;铅字 v.打(字)
+type
+
+#vt.提;运送;传播;携带;包含;支撑
+carry
+
+#n.进度;比率，率 vt.评估 vi.被评价
+rate
+
+#vi.仍然是;留下;剩余 n.[ pl.]剩余物
+remain
+
+#a.满的，装满的;完全的，充分的，完整的
+full
+
+#n.街道，马路
+street
+
+#a.容易的;舒适的;随和的，宽松的
+easy
+
+#conj.虽然，尽管;然而
+although
+
+#n.记录;唱片;履历 vt.记录;录下
+record
+
+#vi.坐;坐落，被安放 vt.使坐，使就座
+sit
+
+#vt.确定;决定;使下决心 vi.下决心
+determine
+
+#n.水平(面);高度 a.(水)平的 v.(使)变平坦
+level
+
+#a.地方性的，当地的;局部的 n.[ pl.]当地人
+local
+
+#a.确信的;一定的;可靠的 ad.确实;当然
+sure
+
+#vt.收到;受到;接待，接见，欢迎
+receive
+
+#ad.如此，这样;因此，从而
+thus
+
+#n.片刻，瞬间，时刻;机会，时机
+moment
+
+#n.精神;灵魂;气概[ pl.]情绪;烈酒(精)
+spirit
+
+#n.火车;一系列，行列 v.(受)训练(培养)
+train
+
+#n.大学，学院
+college
+
+#n.宗教，宗教信仰
+religion
+
+#ad.或许，大概，可能
+perhaps
+
+#n.音乐，乐曲
+music
+
+#vi.生长，成长;成为;增长 vt.种植，栽种
+grow
+
+#a./ ad.自由的(地);免费的(地) vt.解放
+free
+
+#n.原因;事业 vt.引起;使遭受，给…带来
+cause
+
+#v.服务(役)，任(职);接待;适合;发球
+serve
+
+#n.年龄;时代(期) v.变旧,成熟
+age
+
+#n.书;本子[ pl.]帐目 vt.预订，预约
+book
+
+#n.(黑)板;委员会; v.上(船,飞机等);搭伙
+board
+
+#a.新近的，近来的
+recent
+
+#n.声音 v.响;听起来 a.合理的 ad.酣畅地
+sound
+
+#n.办公室;处，所，局;官职;[-s]服务
+office
+
+#vt.切，割，剪;减少 n.伤口;削减;修剪
+cut
+
+#n.(脚)步;步骤;台阶 vi.行走;踏上
+step
+
+#n.阶级;班级;课;种类;等级，级别
+class
+
+#a.真实的;真的;忠诚的;准确的
+true
+
+#n.历史，史学，历史书;履历;病历，病史
+history
+
+#n.位置;地位，职务;姿势;立场 vt.安置
+position
+
+#prep.在…上方;多(大,高)于 ad.在上面
+above
+
+#a.强壮的;牢固的;坚强的;强烈的，浓的
+strong
+
+#n.朋友，友人
+friend
+
+#a.必要的;必然的 n.[ pl.]必需品
+necessary
+
+#vt.添(增)加;把…加起来 vi.(to)增添
+add
+
+#n.法庭，法院;球场;宫廷;庭院，院子
+court
+
+#vt.分给，发;给予 n.交易，协议
+deal
+
+#n.税(款);负担 vt.征税;使费尽力气
+tax
+
+#vt./ n.支持，拥护;支撑;供养;证实
+support
+
+#n.社交聚会;党，政党;一方，当事人
+party
+
+#conj.是否，会不会;不管，无论
+whether
+
+#ad.[否]也 a./ pron.(两者中)任何一个，每方
+either
+
+#n.陆地;土地;国家 v.(使)靠岸(登陆，降落)
+land
+
+#n.材(原;资)料 a.物质的;肉体的;重要的
+material
+
+#vi.发生;[后接不定式]碰巧，恰好
+happen
+
+#n.教育，培养，训练
+education
+
+#n.死，死亡;破灭，终止
+death
+
+#vi.赞同;一致;(气候等)相宜 vt.同意
+agree
+
+#n.臂;扶手 vt.以(武器)装备;配备
+arm
+
+#n.母亲，妈妈
+mother
+
+#prep.穿(越,横)过;在对面 ad.在对面
+across
+
+#ad.相当;实际上，确实;完全，十分
+quite
+
+#pron.无论什么东西;任何东西
+anything
+
+#n.镇，市镇;市区，市中心
+town
+
+#a.以前的 prep./ ad.经过，过 n.过去，往事
+past
+
+#n.观点;观察;景色 vt.看待;观察，看
+view
+
+#n.社会;社会团体，协会，社;上流社会
+society
+
+#v.管理，经营，处理;设法对付;控制，操纵
+manage
+
+#n.回答;答案 v.回答;解答;响应
+answer
+
+#n.休息 vt.打破;弄坏 vi.破碎;破晓;转晴
+break
+
+#vt.组织，把…编组;使有条理
+organize
+
+#a.一半的，半个的 n.半，一半 ad.一半
+half
+
+#n.火;火灾;射击 v.放(枪等);解雇
+fire
+
+#v.丢失;迷失;输，损失;浪费;(钟)走慢
+lose
+
+#n.钱，货币，金钱
+money
+
+#v.停止，中断;阻止 n.车站;停止;句号
+stop
+
+#a.实际的，事实上的，真实的
+actual
+
+#ad.早已，已经
+already
+
+#n.努力，尝试;努力的成果，成就
+effort
+
+#vi.(for)等;(on)服侍 n.等待(的时间)
+wait
+
+#n.部，部门，系
+department
+
+#a.能够…的，得以…的;有才干的
+able
+
+#a.政治的，政治上的;政党的，党派的
+political
+
+#v.学，学习;得知，了解，学会;认识到
+learn
+
+#n.嗓音;(表达出的)意见;语态 vt.说(话)
+voice
+
+#n.空(大)气;天(航)空 vt.通风,晾干
+air
+
+#together
+ad.在一起，共同;一致地，协调地
+
+#aux. v.将(要)，会;必须，应该
+shall
+
+#vt.(掩)盖;占;包括;报道 n.盖子，封面
+cover
+
+#a.平常的，普通的;共同的，公共的
+common
+
+#n.主题;学科;对象;主语 vt.使服从
+subject
+
+#draw
+vt.画;拖;取出; vi.移动; n.平局;抽签
+
+#a.短(矮)的;缺乏 ad.简短地 n.[ pl.]短裤
+short
+
+#n.妻子
+wife
+
+#vt.对待;医治;款待 n.款待;乐事
+treat
+
+#n.限度，限制[ pl.]范围;极限 vt.限制(定)
+limit
+
+#n.路，道路
+road
+
+#n.信，函件;字母[ pl.]文学，文化修养
+letter
+
+#n.颜色;颜料;情调 vt.给…着(染)色
+color
+
+#prep.在…后;落后于 ad.在背后;在后面
+behind
+
+#vt.生产，产生;显示;制作 n.(农)产品
+produce
+
+#vt.送，寄;派遣，打发;发送，发射
+send
+
+#n.措词，术语;(任，学)期 vt.把…称为
+term
+
+#a.全部的;完全的 n.总数(计) v.合计
+total
+
+#n.大学
+university
+
+#vi.升起;起立(床);上涨 n.上涨;升高
+rise
+
+#n.世纪，百年
+century
+
+#n.成就，成功;成功的事物，有成就的人
+success
+
+#n.分钟;片刻;立刻[ pl.]会议记录 a.微小的
+minute
+
+#v.记得，记住;(to)代…问候
+remember
+
+#n.目的，意图;用途;效果
+purpose
+
+#vt.试验，测试，检验
+test
+
+#n.战斗，打架，斗争
+fight
+
+#v.观看;看守，照看;小心 n.表;看管
+watch
+
+#n.形势，环境，状况;位置，地点
+situation
+
+#n.南(方)，南部 ad.向南方 a.南方(部)的
+south
+
+#ad.[用于被修饰词之后]以前
+ago
+
+#n.差别，差异;差，差额;(意见的)分歧
+difference
+
+#n.阶段;舞台;戏剧表演 vt.上演;举办
+stage
+
+#n.父亲;[ pl.]祖先;创始人;神父
+father
+
+#n.桌(台)子;表格 vt.提交讨论
+table
+
+#n.[the～]其余的人(物);休息 v.休息;搁
+rest
+
+#vt.忍受;承担;怀有;运输 n.熊;卖空者
+bear
+
+#a.全部的，整个的
+entire
+
+#n.市场，集市，股市;行情，销路 vt.销售
+market
+
+#v.准备，预备
+prepare
+
+#v.讲解，解释，说明
+explain
+
+#vt.给予，提供;提议 n.提供，提议;报价
+offer
+
+#n.植物;工厂;间谍 vt.种，植;放置
+plant
+
+#n.费用;管理 vt.要价;指控 vi.收费;冲锋
+charge
+
+#n.地(面)，土地[ pl.]场地(所);理由，根据
+ground
+
+#n.西(方，部) a.西方(部)的 ad.向西方
+west
+
+#n.画，照片;描绘;画面 vt.描绘;构想
+picture
+
+#ad./ a.努力地(的);艰难地(的);猛烈地(的)
+hard
+
+#n.前面;前线;方面 a.前面的 v.面向，朝着
+front
+
+#vi.躺，平放;位于;伸展;说谎 n.谎话
+lie
+
+#a.现代的，新式的
+modern
+
+#a.暗的，黑色的;深色的 n.[the～]黑暗(夜)
+dark
+
+#n.表面，面;外表 vi.浮出水面;浮现
+surface
+
+#n.规则;惯例;统治 v.统治;裁决
+rule
+
+#vt.看作;打量;注意 n.尊敬[ pl.]问候
+regard
+
+#n.舞(蹈);舞曲，舞会 v.跳舞;跳动
+dance
+
+#n.和平，和睦;平静，安宁，安静
+peace
+
+#vt.注意到;观察;评论;遵守，奉行
+observe
+
+#a.将来的 n.将来，未来;前途[ pl.]期货
+future
+
+#n.墙，壁，围墙 vt.筑墙围住，用墙隔开
+wall
+
+#n.农场，饲养场，畜牧场 v.耕作
+farm
+
+#vt.声称;索取;需要 n.要求,索赔;声称
+claim
+
+#n.商行 v.(使)变得坚实 a.结实的;稳固的
+firm
+
+#n.操作，经营;手术;(军事)行动;运算
+operation
+
+#ad./ a.另外(的);更远(的) vt.促进
+further
+
+#n.压(力)，压强;压迫 vt.迫使，说服
+pressure
+
+#n.财产，所有物;房产，物业;性质，性能
+property
+
+#n.早晨，上午
+morning
+
+#n.数(量);总额 vi.(to)合计;接近
+amount
+
+#n.顶;上部 a.最高的 vt.居…之上;高过
+top
+
+#prep./ n./ ad./ a.(在，向)的外面(的)
+outside
+
+#n.片，块，段，件;断片，碎块 vt.拼合(凑)
+piece
+
+#ad.有时，间或
+sometimes
+
+#n.美，美丽;美人，美的东西
+beauty
+
+#n.贸易，商业;行业 vi.贸易 vt.交换
+trade
+
+#n.害怕，恐惧;危险 vt.畏惧，害怕，担心
+fear
+
+#n.要求;需要 vt.要求;需要;询问，查问
+demand
+
+#v.感到疑惑(好奇)，想知道 n.惊奇;奇迹
+wonder
+
+#n.表，目录，名单 vt.把…编列成表，列举
+list
+
+#vt.接(领,收)受;承认,同意;相信
+accept
+
+#n.法官;裁判员 v.断定;裁决，评定;审判
+judge
+
+#n.油漆，涂料，颜料 v.油漆;绘(画)
+paint
+
+#n.英里
+mile
+
+#ad.不久;早，快
+soon
+
+#a.承担责任的;有责任感的;重要的
+responsible
+
+#vt.允许(…进入);同意给;承认
+allow
+
+#n.秘书;书记;部长，大臣
+secretary
+
+#n.心(脏);内心，感情;热忱;中心，要点
+heart
+
+#n.工会，联盟;联合，合并;团结
+union
+
+#a.慢的;不忙碌的 v.慢下来 ad.慢慢地
+slow
+
+#n.岛，岛屿
+island
+
+#vt.进入;参加;登记(录) vi.进(入，来)
+enter
+
+#n.饮料，酒 v.饮，喝(酒等)
+drink
+
+#n.故事，传说，小说;情况;报道;楼层
+story
+
+#n.实验，试验 vi.(on，with)作实验
+experiment
+
+#vi.逗留;保持 vt.停止，延缓 n.逗留，停留
+stay
+
+#n.纸;报纸;文件;论文;作业 a.纸质的
+paper
+
+#n.空地;空间;间隔;期间 vt.分隔开
+space
+
+#vi.申请，请求;适用 vt.使用;敷
+apply
+
+#v.决定，判断;(使)决定;解决;判决
+decide
+
+#v.分享，分担;分配 n.份额[ pl.]股份
+share
+
+#vt.渴望;要求，请求 n.愿望，欲望
+desire
+
+#vt.用(钱);花(时间等)，度过，消磨
+spend
+
+#n.标记，符号;招牌;迹象 v.签(署)
+sign
+
+#ad.因此，所以
+therefore
+
+#a.不同的，各种各样的;多方面的
+various
+
+#n.参观，访问
+visit
+
+#n.供应[ pl.]存货，必需品 vt.供给;满足
+supply
+
+#n.军官，警官;官员，高级职员
+officer
+
+#n.疑惑，疑问，怀疑 v.怀疑，不相信
+doubt
+
+#a.私人的;秘密的;私立(营)的 n.士兵
+private
+
+#a.立即的;直接的，最接近的;紧靠的
+immediate
+
+#vt.希望;祝愿 vi.盼望 n.愿望[ pl.]祝愿
+wish
+
+#vt.包含，容纳;控制，抑制
+contain
+
+#vt.喂(养);向…提供 vi.(on)吃 n.饲料
+feed
+
+#vt./ n.举起;增加;筹集;引起;养育
+raise
+
+#vt.描写，形容;画出(图形等)
+describe
+
+#a.准备就绪的;乐意的;手头现成的
+ready
+
+#n.马
+horse
+
+#n.儿子，孩子
+son
+
+#vi.存在，生存
+exist
+
+#n.北(方，部) a.北方(部)的 ad.向北方
+north
+
+#vt.建议，提议;使人想起，暗示
+suggest
+
+#n.(车)站，台，局 vt.安置，派驻
+station
+
+#a.有效的，生效的;印象深刻的;实际的
+effective
+
+#n.食物，食品
+food
+
+#a.深(厚,切,刻,奥)的 d.深深地，在深处
+deep
+
+#a.宽阔的;广泛的;偏离的 ad.全部地
+wide
+
+#a./ ad.单独的(地),孤独的;仅,只
+alone
+
+#n.性格,品质;性质;角色;符号,(汉)字
+character
+
+#n.& a.英语(的)
+English
+
+#a.快乐的，幸福的;乐意的;令人满意的
+happy
+
+#n.批评家，评论家
+critic
+
+#n.单位;部件，元件，装置;单元
+unit
+
+#n.产品，产物;乘积
+product
+
+#vt./ n.尊敬;尊重，重视[ pl.]敬意;方面
+respect
+
+#v.(使)下降;放弃 n.下降;(一)滴[ pl.]滴剂
+drop
+
+#conj./ ad.也不，也没有
+nor
+
+#vt.装满;满足;担任 vi.被充满 n.充分
+fill
+
+#a.(寒)冷的;冷淡(酷)的 n.(寒)冷;感冒
+cold
+
+#vt.代表(理);表示，象征;描绘，表现
+represent
+
+#a.突然的，意外的
+sudden
+
+#a.基本的，基础的 n.[ pl.]基本原理
+basic
+
+#vt.杀死;否决;使疼痛;消磨 vi.致死
+kill
+
+#a.健康的;极好的的 ad.很好 vt./ n.罚款
+fine
+
+#n.麻烦，困难[ pl.]纠纷 vt.麻烦 vi.费力
+trouble
+
+#n.痕迹;记号;分数 vt.标明;纪念;打分
+mark
+
+#a.单一的;独身的 n.单程票[ pl.]单打
+single
+
+#n.报刊，新闻界;出版(通讯)社 v.压;压迫
+press
+
+#a.重的;大量的;严重的;过度的;笨重的
+heavy
+
+#n./ vt.尝试，企图，努力
+attempt
+
+#n.起源，来源，起因[常 pl.]出身，血统
+origin
+
+#n.标准，规格 a.标准的
+standard
+
+#pron.每件事，一切;最重要的东西
+everything
+
+#n.委员会
+committee
+
+#a.道德的，有道德的 n.[ pl.]道德;寓意
+moral
+
+#a.黑暗的;黑人的 v.(使)变黑 n.黑色(人)
+black
+
+#a.红色的 n.红色，红颜料
+red
+
+#a.坏的;差的;邪恶的;严重的;腐烂的
+bad
+
+#n.地球;陆地，地面;土，泥
+earth
+
+#n.一致;协议 vi.(with)相一致 vt.授予
+accord
+
+#ad.其他，另外
+else
+
+#a.仅仅的，只不过的;纯粹的
+mere
+
+#vi.死;停止运行;(for)渴望，切望
+die
+
+#v.(评)说;(on)谈(评)论 n.话语，谈论
+remark
+
+#n.基础，根据，原则
+basis
+
+#conj.除了;要不是，但是 prep.除…外
+except
+
+#a.同样的 vt.等于 n.相等的数量;可比的东西
+equal
+
+#n.东(方，部) a.东方(部)的 ad.向东方
+east
+
+#n.事件，大事;比赛项目
+event
+
+#vt.雇用;用，使用，利用 n.受雇，雇佣
+employ
+
+#n.防御，保卫;[ pl.]防御工事;辩护
+defense
+
+#n.微笑 vi.微笑，露出笑容 vt.笑
+smile
+
+#n.河，江，川
+river
+
+#vt.改进，改善 vi.改善，变得更好
+improve
+
+#n.游戏;比赛;局，盘，场[ pl.]运动会
+game
+
+#n.细节，详情;枝节，琐事vt详细说明
+detail
+
+#n.记述;帐(户);解释 vi.(for)说明;占
+account
+
+#n.分，分币
+cent
+
+#n.种类，类别;某一种人 vt.分类，整理
+sort
+
+#vt.减少，缩小;使降级，使沦落;迫使
+reduce
+
+#n.俱乐部;棍棒，球
+club
+
+#vt.买，买得;向…行贿，收买 vi.购买东西
+buy
+
+#n.注意，专心，留心;立正姿势
+attention
+
+#n.船(舶)，舰 vt.用船运，装运
+ship
+
+#n.决定，决心;坚定，果断
+decision
+
+#vt.穿(戴)着 vi.穿破 n.穿，戴;服装;磨损
+wear
+
+#ad./ prep.在…里面;少于 n./ a.里面(的)
+inside
+
+#vi.获胜，赢 vt.获胜;赢得 n.胜利，赢
+win
+
+#vt.料想，以为;假定;期望，认为应该
+suppose
+
+#v./ n.骑(马)，乘(车);骑马(乘车等)旅行
+ride
+
+#vi.运转;动手术;起作用 vt.操作;经营
+operate
+
+#vt.认识，明白;实现，使变为现实
+realize
+
+#n.卖，出售;廉价出售[常 pl.]销售额
+sale
+
+#vt.选择，挑选;情愿，决定
+choose
+
+#n.公园;停车场 v.停放(车辆等)
+park
+
+#a.正方形的;平方的 n.正方形;广场 v.求平方
+square
+
+#n./ v.选(票);选举;表决(结果)，投票
+vote
+
+#n.价格，价钱;代价 vt.定价(或标价)
+price
+
+#n.区，地区，行政区
+district
+
+#a.死的;无感觉的
+dead
+
+#a.外国的;对外的;(to)无关的
+foreign
+
+#n.窗户，窗口
+window
+
+#prep.远于;迟于;越出 ad.在更远处
+beyond
+
+#n.方向[ pl.]说明书;指引;管理，指导
+direction
+
+#v./ n.罢工;袭击;打;折磨;发现;敲响
+strike
+
+#ad.作为替代;反而，却
+instead
+
+#n.审判(讯);试用(验);讨厌的人(物)
+trial
+
+#n.练习;实践 v.练习，实习，训练;从事
+practice
+
+#vt.抓住;发觉;感染;赶上;引起;领会
+catch
+
+#n.机会，时机
+opportunity
+
+#a.可能的，有希望的;适合的 ad.可能
+likely
+
+#vt.认出;确认，认可;赏识，表彰
+recognize
+
+#v.允许;(使)有可能 n.许可证，执照
+permit
+
+#a.严重的;重要的;认真的;严肃的
+serious
+
+#v.攻击,进攻,抨击 n.攻击;突然发作
+attack
+
+#n.地面;楼层;[the～]发言权;底部，底线
+floor
+
+#n.协会，联盟，社团;联合，结合，交往
+association
+
+#n.春(天);泉 vi.跳;涌现 vt.突然提出
+spring
+
+#n.许多，大量;签，抽签;命运;场地
+lot
+
+#n.库存;股票;[总称]家畜 v.储备 a.常用的
+stock
+
+#v./ n.缺乏，不足，没有
+lack
+
+#n.头发，毛发
+hair
+
+#n.科学;学科
+science
+
+#n.关系，关联;亲属，亲戚
+relation
+
+#n.(自由)职业[the～]同行;公开表示
+profession
+
+#n.型，模式;花样，图案 vt.仿制
+pattern
+
+#a.快的;灵敏的;性急的 ad.快，迅速地
+quick
+
+#a.医学的，医疗的
+medical
+
+#n.影响(力);势力，权势 vt.影响
+influence
+
+#n.时刻，场合;盛会;时机;起因 vt.引起
+occasion
+
+#n.机器，机械 vt.用机器制造，用机器加工
+machine
+
+#vt.(to，with)比较;(to)把…比作 vi.相比
+compare
+
+#n.丈夫
+husband
+
+#a.蓝色的;忧郁的;下流的，色情的 n.蓝色
+blue
+
+#a.国际的，世界(性)的
+international
+
+#a.公平的 ad.公正地 n.游乐场，集市;博览会
+fair
+
+#ad.特别，尤其，格外
+especially
+
+#ad.真正地，当然;确实，实在
+indeed
+
+#vt.想象，设想;料想，猜想
+imagine
+
+#n.惊奇;令人惊奇的事物 vt.使惊奇;撞见
+surprise
+
+#a.平均的;平常的 n.平均数 v.平均
+average
+
+#n.官员，行政人员，高级职员 a.官员(方)的
+official
+
+#n.温度，体温;热度，发烧
+temperature
+
+#a.困难的，难懂的;不易相处的
+difficult
+
+#v.唱(歌)
+sing
+
+#vt.打，击，击中;碰撞 n.一击，击中
+hit
+
+#n.树
+tree
+
+#n.赛跑;竞争;人种 v.参赛;(使)疾走(跑)
+race
+
+#n.[the～]警察部门，警方;警察
+police
+
+#v.触摸;感动;接触 n.接触;触觉;润色
+touch
+
+#n.亲属(戚) a.相对的;比较的;相关的
+relative
+
+#vt.扔;使突然陷入;使困惑 n.投掷(距离)
+throw
+
+#n.质(量);品质;性质 a.优良(质)的
+quality
+
+#a.在前的，以前的，旧时的 n.[the～]前者
+former
+
+#v.拉，拖，拔;移动 n.拉，拖;拉(引)力
+pull
+
+#n.可能性;机会; vi.碰巧发生 vt.冒…的险
+chance
+
+#vt.证明，证实 vi.结果是，原来是
+prove
+
+#vi.争论(吵,辩) vt.主张;说服
+argue
+
+#vt.调停;安排;支付 vi.定居;(鸟等)飞落
+settle
+
+#n.增长;增长量;生长，发展;生长物
+growth
+
+#n.日期;时期;约会 vt.注明日期;约会
+date
+
+#n.(炎)热;热度;热烈 v.加热
+heat
+
+#vt.救;节省;保存 vi.储蓄 prep.除…之外
+save
+
+#n.演出;履行;表现，工作性能
+performance
+
+#vt.计算;认为 vi.计算;值得考虑 n.总数
+count
+
+#n.生产，产量;产品，作品;出示，提供
+production
+
+#vi.听;听从，听信
+listen
+
+#a.主要的，最重要的 n.总管道，干线
+main
+
+#v.挑选，选择;采摘 n.镐，鹤嘴锄
+pick
+
+#n.大小，尺寸 vt.按大小排列(或分类)
+size
+
+#a.凉(快)的;冷静(淡)的 v.冷却;(使)冷静
+cool
+
+#n.军队，陆军，军;大群，大批
+army
+
+#a.忍耐的，有耐心的 n.病人
+patient
+
+#v.结(联，化)合 n.联合企业;联合收割机
+combine
+
+#n.夏天，夏季
+summer
+
+n.门厅;礼堂，会堂;办公大楼
+#hall
+
+#a.轻微的;纤细的 vt./ n.轻视，藐视
+slight
+
+#n.命令;指挥;掌握 vt.命令;拥有;应得
+command
+
+#vt.享受，喜爱;享有
+enjoy
+
+#n.长，长度，距离;一段，一节
+length
+
+#a.适合的;正当的;固有的;严格意义上的
+proper
+
+#vt.表示;快运 n.快车(运) a./ ad.特快(的)
+express
+
+#n.健康(状况);卫生，保健
+health
+
+#a.主要的;总的 n.首领，长官;酋长，族长
+chief
+
+#n.傍晚，晚上
+evening
+
+#n.商店;贮存;仓库 vt.贮藏，贮备，存储
+store
+
+#n.语言;措辞，说法
+language
+
+#n.度，度数;程度;学位
+degree
+
+#n.度，度数;程度;学位
+lay
+
+#a.当前的;流行的 n.流;电流;趋势
+current
+
+#n.枪，炮
+gun
+
+#n.狗，犬科动物
+dog
+
+#n.旅馆，宾馆
+hotel
+
+#a.奇怪的，奇异的;陌生的，生疏的
+strange
+
+#a.分离的;各别的 v.使分离;区分;分居
+separate
+
+#n.船，小船
+boat
+
+#vi.失败;失灵 vt.不;无助于;没有通过
+fail
+
+#a.干净的;熟练的 ad.完全地 vt.把…弄干净
+clean
+
+#n.连衣裙;衣服 vi.穿衣 vt.给…穿衣
+dress
+
+#pron.任何人;随便哪一个人
+anyone
+
+#v.得(益);(钟)走快 n.增加[ pl.]收益
+gain
+
+#n.疼痛;痛苦[ pl.]辛苦，苦心 vt.使痛苦
+pain
+
+#n.物体;客体;目的;宾语 vi.反对
+object
+
+#n.知识，学问;知道，了解
+knowledge
+
+#vi.(on，upon)依靠;信赖;决定于
+depend
+
+#vi.有关联;适应 vt.使互相关联;讲述
+relate
+
+#prep.在…下;[地位等]低于 ad.在下面
+below
+
+#n.美元，元(加拿大等国货币单位)
+dollar
+
+#vi.前进 vt.预先发放,提前 n.进展 a.预先的
+advance
+
+#n.外形;状况 vt.形成;决定…的进程
+shape
+
+#v.安排,准备,筹划;整理,排列,布置
+arrange
+
+#n.人口;(具有共同特点的)一类人
+population
+
+#ad.是，是的
+yes
+
+#v.卖，出售，推销
+sell
+
+#vt./ n.提及，说起
+mention
+
+#a.干(燥)的，干旱的;口渴的 vt.使干
+dry
+
+#v.检查;突然停止 n.核对;制止;支票
+check
+
+#n.诗人
+poet
+
+#n./ v.睡(眠)
+sleep
+
+#v.参加，加入;连接，接合
+join
+
+#a.热的;辣的;棘手的;(指新闻)最新的
+hot
+
+#n.床;(苗)床，坛;河床，(湖或海)底
+bed
+
+#a.电动的，电的
+electric
+
+#n.梦(想)，理想 vi.做梦;想 vt.梦想;想到
+dream
+
+#a.预定的;应得的;应有的;到期的
+due
+
+#n.季(节);节期 vt.给…调味，加味于
+season
+
+#n.方式(法);态度，举止[ pl.]风度，规矩
+manner
+
+#v.适合;安装;适应 a.适合的的 n.突发
+fit
+
+#a.左边的 ad.在左边，向左 n.左边(翼)
+left
+
+#n./ vi.前进，进步，进展
+progress
+
+#pron.(两者)无一个 ad.也不 a.两者皆非的
+neither
+
+#n.力(气);实力，力量;强度;长处
+strength
+
+#vt.注意到，察觉到 n.注意，察觉;通知
+notice
+
+#v.完成结束 n.结束，末尾，最后阶段(或部分)
+finish
+
+#n.意见，看法，主张
+opinion
+
+#n.帐单;议案;钞票;海报 vt.开帐单
+bill
+
+#a.西方的，西部的
+western
+
+#n.事实，真相，实情;真实性;真理
+truth
+
+#a.错误的;不正当的 n.错误;冤屈 vt.冤枉
+wrong
+
+#n./ v.旅行，游历;行进;走(驶)过
+travel
+
+#n.一套衣服;起诉，诉讼 vt.合适;中意
+suit
+
+#n.银行;岸，堤;堆 v.把(钱)存入银行
+bank
+
+#a.精确的，确切的 vt.强求，要求，索取
+exact
+
+#n.光荣;敬意;荣幸 vt.给…以荣誉;尊敬
+honor
+
+#n.兄弟;教友，会友
+brother
+
+#a.轻声的;安静的 n.安静 v.(使)安静
+quiet
+
+#v.娶，嫁，和…结婚;为…证婚，主持婚礼
+marry
+
+#n.角(落);街角 vt.使走投无路
+corner
+
+#vt.处理，应付;操作;拿 n.柄，把手
+handle
+
+#n.危险;危险事物，威胁
+danger
+
+#n.医院
+hospital
+
+#n.水池;一滩;共用物(人员) vt.共用
+pool
+
+#v.允诺;有希望;有前途 n.承诺;希望
+promise
+
+#n.血，血液;血统，家族
+blood
+
+#v.射击;疾驰;射门，投篮;拍摄 n.苗
+shoot
+
+#v.射击;疾驰;射门，投篮;拍摄 n.苗
+scene
+
+#n.文学，文学作品;文献，图书资料
+literature
+
+#vi.到达，到来;来临;(at)达到
+arrive
+
+#n.电影;胶片(卷);薄膜 vt.拍摄(电影)
+film
+
+#n.基;底;基础(地) vt.(on)建在…的基础上
+base
+
+#n.自由
+freedom
+
+#n.酒吧间;闩;栅栏 vt.闩，在…设栅栏;阻止
+bar
+
+#ad.大概，也许
+maybe
+
+#vt.悬挂，吊;吊死 vi.悬挂，垂下
+hang
+
+#vt.遭受;容忍 vi.受痛苦;受损，变糟
+suffer
+
+#vt./ n.(大量)制造，制造业[ pl.]产品
+manufacture
+
+#a.时常发生的，频繁的，常见的
+frequent
+
+#n.岩石，石块;摇滚乐 v.摇，摇动
+rock
+
+#n.丧失，遗失;损失，损耗，亏损;失败
+loss
+
+#vi.燃烧 vt.点燃;烧毁;烧伤 n.烧伤
+burn
+
+#n.太阳，日 vt.晒太阳
+sun
+
+#n.听众，观众，读者
+audience
+
+#a.必不可少的;本质的，基本的 n.[ pl.]要素
+essential
+
+#n.玻璃，玻璃杯;[ pl.]眼镜
+glass
+
+#vt.预防，防止
+prevent
+
+#n.诗
+poem
+
+#a.穷的;可怜的;贫乏的;低劣的，差的
+poor
+
+#n.英寸;少量，短距离 v.(使)缓慢地移动
+inch
+
+#n.歌，歌曲;(鸟等)鸣声
+song
+
+#n.技能，技巧，手艺;熟巧，能力
+skill
+
+#n.邮政(件);(支)柱;职位 vt.邮寄;贴出
+post
+
+#a.流行的，通俗的，大众的;广受欢迎的
+popular
+
+#n.无线电(台);收音机 v.用无线电传送
+radio
+
+#n.动物，兽，牲畜 a.动物的，野兽的
+animal
+
+#a.意识到的，自觉的;神志清醒的;有意的
+conscious
+
+#prep.相当于…价值的，值得…的 n.价值
+worth
+
+#vt.吃，喝 vi.吃饭，吃东西
+eat
+
+#n.选举，推举，当选
+election
+
+#n.信任，信赖，信心;信仰，信条
+faith
+
+#n.波(浪);挥动 v.挥动，挥…示意;波动
+wave
+
+#vt./ n.谋杀，凶杀
+murder
+
+#n.模型;模特儿 a.模范的 vt.模仿 vi.展示
+model
+
+#v.忘记，遗忘;(about)不放在心上，丢开
+forget
+
+#vt.延伸;扩展;给予 vi.伸展，延伸;达到
+extend
+
+#n.边(缘);刃;优势 v.侧着移动，徐徐移动
+edge
+
+#n.距离，间距;遥远，远方;冷淡，疏远
+distance
+
+#n.记忆(力);回忆;纪念;存储(器)
+memory
+
+#vt.推荐;劝告;使受欢迎
+recommend
+
+#n.分(开，配，担;歧，裂);除(法);部门
+division
+
+#n.全体职工，全体人员 vt.为…配备(人员)
+staff
+
+#n.腿，腿部;支柱;(旅程的)一段，一站
+leg
+
+#n.讨论，谈论，论述
+discussion
+
+#n.地址;演说 vt.写地址;演说;对付
+address
+
+#vi.乘;飞(行) vt.驾(飞机);空运 n.苍蝇
+fly
+
+#a.(on，upon)依靠的，依赖的;取决于…的
+dependent
+
+#n.球(状物);(正式的)舞会 vt.把…捏成球状
+ball
+
+#n./ v.摇动，摇;(使)颤抖，震动
+shake
+
+#n.镜框;构架 vt.镶框;陷害;制定
+frame
+
+#a.极度(端)的;尽头的，末端的 n.极端，过分
+extreme
+
+#n.工程师，火车司机 vt.操纵;设计，建造
+engineer
+
+#a.厚的，粗的;浓的;密的 ad.厚厚
+thick
+
+#n.舒适;安慰 vt.使舒适;安慰，慰问
+comfort
+
+#n.后者 a.后者的;后一半的，末了的
+latter
+
+#n.营地;拘留营 vi.野营，设营，宿营
+camp
+
+#n.油;石油;油画 vt.加润滑油，涂油
+oil
+
+#vt.发现，找到，发觉
+discover
+
+#vt.检查，调查，仔细观察;对…进行考查
+examine
+
+#n.困难，费劲;难事，难题;麻烦，困境
+difficulty
+
+#n.牙，齿
+tooth
+
+#n.中部，中间 a.中部的，中间的
+middle
+
+#n.选择(权);供选择的东西 a.上等的，精选的
+choice
+
+#vi.(to)指的是;参考 vt.参考;求助于
+refer
+
+#n.敌人，仇敌，敌军
+enemy
+
+#a.实用的;(切合)实际的，有实用价值的
+practical
+
+#n.结婚，婚姻，婚礼
+marriage
+
+#n.桥;桥牌 vt.架桥于;连接起来
+bridge
+
+#vt.宣布，声明;宣称;申报 vi.表态
+declare
+
+#n.女士，夫人，小姐;举止文雅的女子，淑女
+lady
+
+#v.穿过;交叉 n.十字(架等) a.交叉的
+cross
+
+#a.每日的，日常的 ad.每日，天天 n.日报
+daily
+
+#n.下午，午后
+afternoon
+
+#vt.出席,参观;照料 vi.(to)专心于
+attend
+
+#n.指导者，主管;董事;导演
+director
+
+#n.平衡;天平;结存 vt.使平衡;称;权衡
+balance
+
+#vt.洗;冲 vi.洗衣等 n.洗涤;要洗的衣物
+wash
+
+#n.首都(府);资金;大写字母 a.大写的
+capital
+
+#n.速度，迅速，快 vi.迅速前进;超速行驶
+speed
+
+#n.大楼;街区;障碍(物) vt.堵塞;妨碍
+block
+
+#n.公民，市民
+citizen
+
+#n.嘴，口
+mouth
+
+#n.小山，山岗，高地
+hill
+
+#a.绿色的;生的 n.绿色[ pl.]绿叶菜类
+green
+
+#ad.请 vt.使高兴 vi.愿意，认为合适
+please
+
+#n.发动机，电动机
+motor
+
+#n.代理行,经销处;(政府等的)专业部门
+agency
+
+#vt.鼓励，激励，怂恿;促进，助长，激发
+encourage
+
+#n.州长，地方长官;主管，理事，董事
+governor
+
+#n./ v.(about)(使)担心(发愁，忧虑)
+worry
+
+#n.[ pl.]事务;事情(件);(个人的)事
+affair
+
+#n.肩(部) vt.肩负，承担
+shoulder
+
+#a.明亮的;聪敏的;欢快的;鲜艳的，清晰的
+bright
+
+#n.堆;大量[ pl.]群众 a.大规模的 v.集中
+mass
+
+#n.样品，样本 vt.抽样(调查);体验
+sample
+
+#ad.相当，很 a.漂亮的，俊俏的，标致的
+pretty
+
+#v./ n.重复，重说，重做
+repeat
+
+#v.(使)滚动;卷;碾;摇摆 n.卷;名单
+roll
+
+#v./ n.推，按;推动，促进;催逼
+push
+
+#n.旅行，旅游 v.(把…)绊倒
+trip
+
+#n.委员会，理事会
+council
+
+#v.给…穿衣;覆盖
+clothe
+
+#n.父亲，母亲，家长
+parent
+
+#ad.向前;从今往后 a.前部的;向前的 vt.转送
+forward
+
+#a.锋利的;鲜明的;敏锐的 ad.[指时刻]整
+sharp
+
+#a.直的;连续的;直率的 ad.直接地;立即
+straight
+
+#n.气体;煤气;汽油;毒气 vt.毒(死);加油
+gas
+
+#n.重量;砝码，秤砣;负担 vt.加重量于
+weight
+
+#vt.讨论，谈论，论述
+discuss
+
+#vt.修理;安装;安排;整理;准备 n.困境
+fix
+
+#n.负荷;装载量;工作量 v.装(载);使负担
+load
+
+#n.(男)主人;大师[M-]硕士 vt.精通 a.精通的
+master
+
+#pron.无论什么 a.不管怎样的
+whatever
+
+#a.圆的 ad.在周围 prep.大约 n.局 v.环(绕)
+round
+
+#a.快的，迅速的 n.[ pl.]急流，湍滩
+rapid
+
+#vi.笑 n.笑，笑声
+laugh
+
+#n.手指
+finger
+
+#n.地点;斑点，污点;少量 vt.认出;玷污
+spot
+
+#v.提议;提名，推荐;打算，计划;求婚
+propose
+
+#n.商店，店铺;车间，工场 vi.购物
+shop
+
+#a.宽的，辽阔的;广泛的;宽容的;敞亮的
+broad
+
+#vt.代替，取代;更换，调换;放回原处
+replace
+
+#v./ n.回答，答复
+reply
+
+#n.程度，范围，限度;广度，宽度，大小
+extent
+
+#v.锁上;卡住 n.锁;(头发的)一缕;船闸
+lock
+
+#n.受雇者，雇工，雇员
+employee
+
+#ad.在前面(头);向(朝)前;提前
+ahead
+
+#n.视力;眼界;情景[ pl.]名胜 vt.看见
+sight
+
+#v.展开;散布;涂 n.传播;幅度，范围
+spread
+
+#n.风;气息 v.绕，缠;(给…)上发条
+wind
+
+#vt.赞成;批准,认可 vi.(of)赞成
+approve
+
+#vt.破坏，毁灭;消灭，杀死
+destroy
+
+#pron.没有一人(或物) ad.毫不，毫无
+none
+
+#n.磅;英镑 v.(连续)猛击，捣碎
+pound
+
+#n.声誉，名望，名声
+fame
+
+#n.重要(性)
+importance
+
+#v.反映;反射，映现;深思，反省
+reflect
+
+#n.优点,有利条件(因素);好处
+advantage
+
+#n.比赛;对手;匹配;火柴 v.相配，相称
+match
+
+#a.规则的;定期的;匀称的;常规的
+regular
+
+#n.[常 pl.]工资，报酬 vt.开始，进行
+wage
+
+#v.拒绝，不接受，不同意 n.废物，垃圾
+refuse
+
+#n.存在;生存，生活(方式)
+existence
+
+#ad.几乎不，简直不;刚刚，仅仅
+hardly
+
+#n.题目;称号，头衔;权益，权利
+perform
+
+#n.题目;称号，头衔;权益，权利
+title
+
+#vi.易于;趋向，倾向 vt.照管，护理
+tend
+
+#n./ v.运动;练习;运用[ pl.]体操，演习
+exercise
+
+#a./ ad.薄，细，瘦;稀薄(的) v.(使)变薄
+thin
+
+#n.上衣，外套;表皮;层 vt.覆盖
+coat
+
+#n.一点儿，少许;小片，小块
+bit
+
+#n.山;[ pl.]山脉
+mountain
+
+#n.青春，青少年时代;男青年[总称]青年们
+youth
+
+#n.行为，举止，表现;运转情况，反应
+behavior
+
+#n.报纸
+newspaper
+
+#a.秘密的，机密的 n.秘密
+secret
+
+#n.能力，本领;才能，才智
+ability
+
+#n.海，海洋
+sea
+
+#a.软的;轻柔的;柔和的;温和的;娇嫩的
+soft
+
+#n.正义，公正;司法，法律制裁
+justice
+
+#a.通情达理的;合理的;公道的;尚好的
+reasonable
+
+#n.圆(圈);界，阶层 vt.围着 vi.盘旋
+circle
+
+#a.固体的;实心的;结实的;可靠的 n.固体
+solid
+
+#n.页，张 vt.(通过扩音器、传呼机等)呼叫
+page
+
+#n.武器，兵器
+weapon
+
+#a.快的，迅速的 ad.快，迅速地;紧紧地
+fast
+
+#n.代表，代理人 a.(of)有代表性的
+representative
+
+#n.搜索，寻找，探查
+search
+
+#vi.逃跑;逸出 vt.逃避，避开 n.逃跑，逃避
+pure
+
+#vi.逃跑;逸出 vt.逃避，避开 n.逃跑，逃避
+escape
+
+#n.人群，群众;一群 v.聚集;挤满;挤，推
+crowd
+
+#n.棍，手杖 vt.刺;粘(钉，卡)住;留下
+stick
+
+#n.电话(机) v.打电话
+telephone
+
+#vt.避免，预防，避开
+avoid
+
+#n.花(菜)园[ pl.]公园，园 vi.从事园艺
+garden
+
+#n.好感;赞同;好事 vt.赞同，喜爱;有利于
+favor
+
+#n.新闻，消息
+news
+
+#conj.除非，若不
+unless
+
+#n.正餐，主餐;宴会
+dinner
+
+#pron.某人，有人 n.重要人物
+someone
+
+#n.信号;标志 v.发信号;标志着 a.显著的
+signal
+
+#n.院子，场地;码
+yard
+
+#a.理想的;想象的 n.理想(的东西或人)
+ideal
+
+#a.温暖的;热情的;暖色的 v.(使)暖起来
+warm
+
+#n.小姐 v.未击中，未达到;未赶上;惦念
+miss
+
+#n.掩蔽处;住所;保护 vt.庇护 vi.躲避
+shelter
+
+#n.士兵，军人
+soldier
+
+#n.物件;文章，论文;条款;冠词
+article
+
+#vi.哭;叫喊，鸣 vt.叫喊 n.哭(声);叫喊
+cry
+
+#n.船长，机长;上尉，队长，领队
+captain
+
+#a.熟悉的，通晓的;冒昧的;非正式的
+familiar
+
+#n.座位;场所;席位 vt.使坐下;容纳
+seat
+
+#n.客人，旅客，(特邀)来宾
+guest
+
+#a.虚弱的;(能力等)差的;微弱的，稀薄的
+weak
+
+#vt.使激动，使兴奋;引起，激起
+excite
+
+#n.君主，国王;(特定领域的)巨子，大王
+king
+
+#pron.每人，人人，各人
+everyone
+
+#n.(葡萄)酒
+wine
+
+#n.洞，孔眼，洞穴;窘境;漏洞，缺陷
+hole
+
+#n.责任，义务;职责，职务;税，关税
+duty
+
+#vt.打;战胜 vi.跳动 n.跳动(声);节拍
+beat
+
+#a.完美的;完全的;完成时的 vt.使完美
+perfect
+
+#n.底;末尾;臀部 a.最低的 vi.(out)达最低点
+bottom
+
+#vt.组成，构成;创作，为…谱曲;使平静
+compose
+
+#n.战役(斗);斗争,决斗 vi.作战,斗争
+battle
+
+#n.价钱，花费，费;[ pl.]开支，业务费用
+expense
+
+#n.牛
+cattle
+
+#n.流，流动，流量 vi.流，流动，循环;飘拂
+flow
+
+#n.厨房
+kitchen
+
+#n.尘土;粉末 vt.擦净，除尘;撒(粉末等)
+dust
+
+#n.瓶 vt.把…装入瓶中
+bottle
+
+#vt.承(供)认;准许…进(加)入 vi.承认
+admit
